@@ -4,9 +4,9 @@ date: '2016-03-21'
 layout: page
 tags:
 - about
-- Jekyll
-- theme
-- moon
+- marketer
+- data scientist
+- analyst
 comments: no
 ---
     
@@ -41,6 +41,13 @@ comments: no
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %} -->
+<br>
+<br>
+<br>
+<br>
+## Website
 
+This website is hosted on GitHub and is updated and maintained using R Studio. The website was developed from the Moon Jekyll theme and was forked from the Github repository [TaylanTatli/Moon][1]. Thanks go to Taylan Tatlı for creating the original theme and making it available under an MIT License.
 
+[1]: https://github.com/TaylanTatli/Moon
 
