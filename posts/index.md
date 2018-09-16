@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: A Selection of Articles
+title: Articles on marketing and data
 excerpt: "A List of Articles"
 comments: false
 ---
