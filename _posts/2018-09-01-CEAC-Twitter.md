@@ -3,7 +3,7 @@ layout: post
 title: "Reviewing the 2018 CASE Europe conference on Twitter"
 date: 2018-09-01
 excerpt: "What can social media tell us about #CEAC18?"
-tags: [sample post, readability, test]
+tags: [marketing, social media, analytics]
 comments: true
 ---
 
