@@ -1,12 +1,16 @@
 ---
+title: "G. Christopher Bow"
+date: '2016-03-21'
 layout: page
-title: G. Christopher Bow
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+tags:
+- about
+- Jekyll
+- theme
+- moon
+comments: no
 ---
     
-<center>Marketer, analyst & data scientist</center>
+<center><strong>Marketer, analyst & data scientist</strong></center>
 <br>
 <center>A results-driven marketer and data scientist with extensive experience in managing campaigns across a range of channels and platforms, demonstrable abilities in using hypothesis and statistics-driven testing and optimisation, combined with advanced analytics to improve return on marketing investment and uncover actionable insights.</center>
 
