@@ -14,6 +14,19 @@ comments: no
 <br>
 <center>A results-driven marketer and data scientist with extensive experience in managing campaigns across a range of channels and platforms, demonstrable abilities in using hypothesis and statistics-driven testing and optimisation, combined with advanced analytics to improve return on marketing investment and uncover actionable insights.</center>
 
+## Core interests
+Using hypothesis-driven methods and experimental approaches, as well as descriptive statistics, to analyse marketing campaigns and performance to provide actionable insight that feeds into informed decision making.
+
+Using data science tools and methods to improve marketing return on investment and improve customer experience through segmentation and presentation of more relevant content.
+
+Development of statistical and machine learning software to improve ease-of-access to data-driven marketing techniques to marketers.
+
+
+## Education
+B.Sc. Biological Sciences, University of Edinburgh
+Ph.D. Molecular Virology, University of Surrey
+
+
 ## Skills and experience
 * Significant multi-channel marketing experience encompassing email marketing, PPC, content, SEO, social media and print
 * Extensive experience of web analytics and use of Google Analytics and Tag Manager
