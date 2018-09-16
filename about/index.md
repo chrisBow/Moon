@@ -23,7 +23,7 @@ Development of statistical and machine learning software to improve ease-of-acce
 
 
 ## Education
-B.Sc. Biological Sciences, University of Edinburgh
+B.Sc. Biological Sciences, University of Edinburgh<br>
 Ph.D. Molecular Virology, University of Surrey
 
 
