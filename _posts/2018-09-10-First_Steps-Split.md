@@ -4,7 +4,7 @@ title: "First steps in marketing split testing"
 date: 2018-09-10
 excerpt: "How to make decisions [at least 95%] confidently"
 tags: [marketing, experiment, analytics]
-comments: true
+comments: false
 ---
 
 In this data-driven age of marketing, we’re often told that it’s all about testing, optimising and testing again. Then, of course, there are people who seem like experts who tell us that we should never, ever, use automated bidding strategies. Why not? Do they know everything about every campaign across every industry?
